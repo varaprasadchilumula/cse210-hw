@@ -3,6 +3,8 @@ using System;
 class Program
 {
     static void Main(string[] args)
+
+    //ask the user for their name.
     {
         Console.WriteLine("What is your first name? ");
         string first = Console.ReadLine();

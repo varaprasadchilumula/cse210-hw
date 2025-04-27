@@ -1,4 +1,3 @@
 # cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+Welcome to the CSE 210 C# Projects repository! This is where the coursework, assignments, and projects for the CSE 210 course are showcased. In this course, the principles of programming with classes using C# are explored, including concepts such as classes, objects, encapsulation, inheritance, and polymorphism, all in the context of software development.
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
